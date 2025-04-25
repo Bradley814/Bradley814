@@ -1,4 +1,4 @@
-Yellow
+## Yellow
 
 - 🔭 I’m currently working on a side project with my friend Caden.
 - 🌱 I’m currently learning Python for the project mentioned above. 
